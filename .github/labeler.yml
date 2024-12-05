@@ -1,0 +1,13 @@
+frontend:
+  - '**/*.html'
+  - '**/*.css'
+  - '**/*.js'
+
+documentation:
+  - '**/*.md'
+  - 'docs/**/*'
+
+configs:
+  - '.github/**/*'
+  - '*.json'
+  - '*.yml'
